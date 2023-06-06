@@ -9,7 +9,7 @@ The repository contains:
 * Deprecated Solution/CloudFormation templates
 * Community-supported content
 
-## Related Products and Solutions
+## Related Products and Solutions #
 * CloudGuard Network Security for Azure
 * CloudGuard Network Security  for AWS
 * CloudGuard Network Security for GCP
